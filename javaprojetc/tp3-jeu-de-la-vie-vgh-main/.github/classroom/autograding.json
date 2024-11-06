@@ -1,0 +1,74 @@
+{
+  "tests": [
+    {
+      "name": "1. getNeighbours",
+      "setup": "",
+      "run": "gradle test --tests GridTest.getNeighbours",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 2
+    },
+    {
+      "name": "2. countAliveNeighbours",
+      "setup": "",
+      "run": "gradle test --tests GridTest.countAliveNeighbours",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 2
+    },
+    {
+      "name": "3. calculateNextState",
+      "setup": "",
+      "run": "gradle test --tests GridTest.calculateNextState",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 2
+    },
+    {
+      "name": "4. calculateNextStates",
+      "setup": "",
+      "run": "gradle test --tests GridTest.calculateNextStates",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 2
+    },
+    {
+      "name": "5. updateStates",
+      "setup": "",
+      "run": "gradle test --tests GridTest.updateStates",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 2
+    },
+    {
+      "name": "6. updateToNextGeneration",
+      "setup": "",
+      "run": "gradle test --tests GridTest.updateToNextGeneration",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 2
+    },
+    {
+      "name": "7. clear",
+      "setup": "",
+      "run": "gradle test --tests GridTest.clear",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 2
+    }
+  ]
+}
